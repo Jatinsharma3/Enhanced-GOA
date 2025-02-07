@@ -1,5 +1,3 @@
-# Modified-Gazelle-Optimization-Algorithm
-This project aims to demonstrate the effectiveness of integrating artificial intelligence
-techniques with nature-inspired optimization algorithms like Gazelle Herding Optimization
-algorithm for solving real-life optimization problems. By enhancing the exploration and
-exploitation capabilities of the algorithm through AI.
+# Modified Gazelle Optimization Algorithm (MGOA) 🦌🚀
+## 🔹 Overview
+The Modified Gazelle Optimization Algorithm (MGOA) is an advanced nature-inspired optimization technique that integrates artificial intelligence (AI) with the Gazelle Herding Optimization Algorithm to enhance its exploration and exploitation capabilities. This project aims to improve performance in solving real-world optimization problems across multiple domains, such as engineering, machine learning, and resource allocation.
